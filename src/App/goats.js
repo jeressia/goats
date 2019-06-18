@@ -51,4 +51,4 @@ const goats = [
   },
 ];
 
-export default { goats };
+export default goats;
