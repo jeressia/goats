@@ -45,7 +45,7 @@ const goats = [
     disposition: 'sunny',
     fullness: 99,
     imageUrl: 'https://images2.minutemediacdn.com/image/upload/c_crop,h_843,w_1500,x_0,y_0/f_auto,q_auto,w_1100/v1555172619/shape/mentalfloss/iStock-177369626_0.jpg',
-    favPose: 'warriot',
+    favPose: 'warrior',
     isFainting: false,
     color: 'white',
   },
